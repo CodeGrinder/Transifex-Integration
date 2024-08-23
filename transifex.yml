@@ -1,11 +1,11 @@
 filters:
 - filter_type: file
-  file_format: JSON
+  file_format: KEYVALUEJSON
   source_file: source/example_key_value.json
   source_language: en
   translation_files_expression: 'translations/example_key_value_<lang>.json'
 - filter_type: file
-  file_format: JSON
+  file_format: KEYVALUEJSON
   source_file: source/example_key_value_plurals.json
   source_language: en
   translation_files_expression: 'translations/example_key_value_plurals_<lang>.json'
