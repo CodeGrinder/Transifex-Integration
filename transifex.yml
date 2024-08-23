@@ -20,7 +20,7 @@ filters:
   source_language: en
   translation_files_expression: 'translations/example_<lang>.po'
 - filter_type: file
-  file_format: xml
+  file_format: ANDROID
   source_file: source/example_android.xml
   source_language: en
   translation_files_expression: 'translations/example_android_<lang>.xml'
